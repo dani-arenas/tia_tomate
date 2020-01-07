@@ -1,0 +1,88 @@
+body {
+  height: 100vh;
+  background-color: #FFF;
+  background-position: 80%;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.header {
+  padding-top: 2rem;
+  padding-left: 17.5rem;
+}
+
+.logo {
+  width: 200px;
+}
+
+.main {
+  position: absolute;
+  left: 50%;
+  top: 25.5vh;
+  transform: translateX(-50%);
+}
+
+.main__container {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #E56353;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.main__title {
+  color: #FFF;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+}
+
+.main__title-emphasis {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  color: #FFF;
+}
+
+.main__title-emphasis_size-xxl {
+  font-size: 50px;
+}
+
+.container2__box {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #91918D;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.image1 {
+  padding-left: 55px;
+  padding-right: 55px;
+  width: 550px;
+}
+
+.logo-footer {
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #686963;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+.footer {
+  width: 100px;
+}
+
+/*# sourceMappingURL=main.css.map */
